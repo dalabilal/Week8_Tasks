@@ -1,0 +1,17 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+documents/*
+!documents/.gitkeep
+chroma_db/
+.DS_Store
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+chroma_db/
+.DS_Store
+reports/
